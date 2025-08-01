@@ -1,0 +1,148 @@
+@page
+@model MyPortfolio.Pages.View.About
+@{
+    ViewData["Title"] = "About";
+}
+
+<!-- ========================================= ASSETS (STYLESHEET) ======================================== -->
+
+<link rel="stylesheet" href="~/css/Home/Project_stylesheet.css" asp-append-version="true">
+<link rel="stylesheet" href="~/css/Mobile_responsive/Home/Project_stylesheet.css" asp-append-version="true">
+
+<!-- ====================================================================================================== -->
+
+<section class="public-header position-relative d-flex justify-content-center align-items-center bg-dark">
+    <img src="~/img/public/wallpaper/about-wallpaper.png" class="img-fluid w-100 opacity-50" alt="Responsive image">
+    <div class="position-absolute">
+        <span class="fs-1 text-light text-uppercase custom-text-shadow"
+            data-aos="fade-zoom-in"
+            data-aos-easing="ease-in-back"
+            data-aos-delay="300"
+            data-aos-offset="0"
+            data-aos-duration="1400">
+            About Me
+        </span>
+    </div>
+</section>
+
+<section class="container my-5">
+
+    <!-- RESUME -->
+    <div class="row mb-4"
+        data-aos="fade-up"
+        data-aos-anchor-placement="center-bottom"
+        data-aos-duration="1400">
+        <div class="d-flex align-items-center col-md-4 mb-3">
+            <a asp-page="/View/Resume">
+                <img src="~/img/public/content/about/about-resume.png" class="img-fluid rounded" alt="">
+            </a>
+        </div>
+        <div class="col-md-7 d-flex flex-column">
+            <a asp-page="/View/Resume">
+                <span class="fw-bolder text-uppercase text-primary margin-custom">Resume</span><br/>
+                <span class="fs-1 text-black margin-custom">Professional Profile</span>
+            </a>
+            <p class="fs-6 fw-light text-justify margin-custom">
+                My resume highlights the academic background, technical skills, and hands-on experiences that have shaped my 
+                journey as a creative and driven professional. It showcases my involvement in school projects, internships, 
+                and Bootcamp opportunities that strengthened my abilities in design, development, and communication. This 
+                section offers a concise overview of my qualifications and milestones, forming the foundation for my continued 
+                growth and future career pursuits.
+            </p>
+        </div>
+        <div class="col-md-1 d-flex justify-content-center align-items-center">
+            <a asp-page="/View/Resume" class="desktop-view"><i class="bi bi-arrow-right-circle-fill text-dark fs-2 desktop-view"></i></a>
+            <a asp-page="/View/Resume" class="mobile-view bg-dark text-white border-0 shadow rounded m-3 py-2 px-4">View More<i class="bi bi-arrow-right ms-2"></i></a>
+        </div>
+    </div>
+    <hr/>
+
+    <!-- HOBBIES & INTERESTS -->
+    <div class="row my-4"
+        data-aos="fade-up"
+        data-aos-anchor-placement="center-bottom"
+        data-aos-duration="1400">
+        <div class="d-flex align-items-center col-md-4 mb-3">
+            <a asp-page="/View/Hobbies_interests">
+                <img src="~/img/public/content/about/about-hobbies-interests.png" class="img-fluid rounded" alt="">
+            </a>
+        </div>
+        <div class="col-md-7 d-flex flex-column">
+            <a asp-page="/View/Hobbies_interests">
+                <span class="fw-bolder text-uppercase text-primary margin-custom">Hobbies & Interests</span><br/>
+                <span class="fs-1 text-black margin-custom">Creative Balance</span>
+            </a>
+            <p class="fs-6 fw-light text-justify margin-custom">
+                Beyond academics and design work, my hobbies and interests help shape who I am creatively and personally. 
+                I enjoy exploring art, music, and digital media, as well as engaging in activities that inspire fresh ideas 
+                and personal growth. Whether it’s sketching, editing, learning new tools, or diving into pop culture and 
+                storytelling, these interests fuel my passion and keep my creativity alive both in and out of the workspace.
+            </p>
+        </div>
+        <div class="col-md-1 d-flex justify-content-center align-items-center">
+            <a asp-page="/View/Hobbies_interests" class="desktop-view"><i class="bi bi-arrow-right-circle-fill text-dark fs-2 desktop-view"></i></a>
+            <a asp-page="/View/Hobbies_interests" class="mobile-view bg-dark text-white border-0 shadow rounded m-3 py-2 px-4">View More<i class="bi bi-arrow-right ms-2"></i></a>
+        </div>
+    </div>
+    <hr/>
+
+    <!-- EDUCATIONAL BACKGROUND -->
+    <div class="row my-4"
+        data-aos="fade-up"
+        data-aos-anchor-placement="center-bottom"
+        data-aos-duration="1400">
+        <div class="d-flex align-items-center col-md-4 mb-3">
+            <a asp-page="/View/Educational_background">
+                <img src="~/img/public/content/about/about-educational-background.png" class="img-fluid rounded" alt="">
+            </a>
+        </div>
+        <div class="col-md-7 d-flex flex-column">
+            <a asp-page="/View/Educational_background">
+                <span class="fw-bolder text-uppercase text-primary margin-custom">Educational Background</span><br/>
+                <span class="fs-1 text-black margin-custom">Academic Milestones</span>
+            </a>
+            <p class="fs-6 fw-light text-justify margin-custom">
+                My educational background reflects the foundation of knowledge and creativity I’ve built throughout my 
+                academic journey. Through a mix of theoretical learning and hands-on projects, I gained valuable experience 
+                in both technical and creative disciplines. These academic experiences played a crucial role in shaping my 
+                perspective, sharpening my skills, and guiding my passion for design and development.
+            </p>
+        </div>
+        <div class="col-md-1 d-flex justify-content-center align-items-center">
+            <a asp-page="/View/Educational_background" class="desktop-view"><i class="bi bi-arrow-right-circle-fill text-dark fs-2 desktop-view"></i></a>
+            <a asp-page="/View/Educational_background" class="mobile-view bg-dark text-white border-0 shadow rounded m-3 py-2 px-4">View More<i class="bi bi-arrow-right ms-2"></i></a>
+        </div>
+    </div>
+    <hr/>
+
+    <!-- AWARDS & CERTIFICATIONS -->
+    <div class="row my-4"
+        data-aos="fade-up"
+        data-aos-anchor-placement="center-bottom"
+        data-aos-duration="1400">
+        <div class="d-flex align-items-center col-md-4 mb-3">
+            <a asp-page="/View/Awards_certifications">
+                <img src="~/img/public/content/about/about-awards-certification.png" class="img-fluid rounded" alt="">
+            </a>
+        </div>
+        <div class="col-md-7 d-flex flex-column">
+            <a asp-page="/View/Awards_certifications">
+                <span class="fw-bolder text-uppercase text-primary margin-custom">Awards & Certifications</span><br/>
+                <span class="fs-1 text-black margin-custom">Professional Highlights</span>
+            </a>
+            <p class="fs-6 fw-light text-justify margin-custom">
+                My awards and certifications represent the milestones I’ve achieved through dedication, hard work, and 
+                continuous learning. Each recognition reflects my commitment to excellence—whether in academics, design, 
+                or professional development. These accomplishments serve as motivation to keep improving and pushing my 
+                abilities further as I grow in my creative and professional journey.
+            </p>
+        </div>
+        <div class="col-md-1 d-flex justify-content-center align-items-center">
+            <a asp-page="/View/Awards_certifications" class="desktop-view"><i class="bi bi-arrow-right-circle-fill text-dark fs-2 desktop-view"></i></a>
+            <a asp-page="/View/Awards_certifications" class="mobile-view bg-dark text-white border-0 shadow rounded m-3 py-2 px-4">View More<i class="bi bi-arrow-right ms-2"></i></a>
+        </div>
+    </div>
+    <hr/>
+</section>
+
+<!-- ====================================================================================================== -->

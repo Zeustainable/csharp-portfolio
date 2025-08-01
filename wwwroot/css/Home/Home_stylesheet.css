@@ -1,0 +1,15 @@
+.img-custom {
+    width: 100%;
+    height: auto;
+    max-width: 500px;
+    display: block;
+}
+
+.btn-custom {
+    font-size: 65%;
+    border-radius: 0;
+}
+
+.letter-space {
+    letter-spacing: 0.3em;
+}

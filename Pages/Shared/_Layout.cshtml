@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Portfolio · @ViewData["Title"]</title>
+        @await Html.PartialAsync("Layout_public/Header_scripts")
+        @if (ViewData["View"]?.ToString() == "Login") {
+            <style>
+                body {
+                    background-color: #999999;
+                }
+            </style>
+        }
+    </head>
+    <body>
+        <header>
+            @if (ViewData["View"]?.ToString() == "Login") {
+                
+            } else {
+                @await Html.PartialAsync("Layout_public/Header_navigation")
+            }
+        </header>
+
+        <main role="main">
+            @RenderBody()
+        </main>
+
+        <footer>
+            @if (ViewData["View"]?.ToString() == "Login") {
+                
+            } else {
+                @await Html.PartialAsync("Layout_public/Footer_navigation")
+                <a href="#" id="back-to-top" class="d-flex justify-content-center align-items-center position-fixed">
+                    <i class="bi bi-chevron-up"></i>
+                </a>
+            }
+            
+            @await Html.PartialAsync("Layout_public/Footer_scripts")
+        </footer>
+        
+        @await RenderSectionAsync("Scripts", required: false)
+    </body>
+</html>

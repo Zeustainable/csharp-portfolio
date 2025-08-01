@@ -1,0 +1,657 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyPortfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyPortfolio.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\css\\Default\\Default_stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\Default\\Default_stylesheet.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\css\\Functional\\Calculator_stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\Functional\\Calculator_stylesheet.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\css\\Header_footer\\Footer_stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\Header_footer\\Footer_stylesheet.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\css\\Header_footer\\Header_stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\Header_footer\\Header_stylesheet.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\css\\Home\\About_stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\Home\\About_stylesheet.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\css\\Home\\Home_stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\Home\\Home_stylesheet.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\css\\Home\\Project_stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\Home\\Project_stylesheet.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\css\\Mobile_responsive\\Header_footer\\Footer_stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\Mobile_responsive\\Header_footer\\Footer_stylesheet.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\css\\Mobile_responsive\\Header_footer\\Header_stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\Mobile_responsive\\Header_footer\\Header_stylesheet.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\css\\Mobile_responsive\\Home\\About_stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\Mobile_responsive\\Home\\About_stylesheet.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\css\\Mobile_responsive\\Home\\Contact_stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\Mobile_responsive\\Home\\Contact_stylesheet.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\css\\Mobile_responsive\\Home\\Home_stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\Mobile_responsive\\Home\\Home_stylesheet.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\css\\Mobile_responsive\\Home\\Project_stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\Mobile_responsive\\Home\\Project_stylesheet.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\css\\Project\\Card_stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\Project\\Card_stylesheet.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\about-awards-certification.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\about-awards-certification.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\about-educational-background.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\about-educational-background.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\about-hobbies-interests.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\about-hobbies-interests.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\about-resume.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\about-resume.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\awards_certifications\\Introduction_to_HTML.jpg",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\awards_certifications\\Introduction_to_HTML.jpg"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\awards_certifications\\Lasallian_CodeSpace.jpg",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\awards_certifications\\Lasallian_CodeSpace.jpg"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\awards_certifications\\OLPMC_Turnover.jpg",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\awards_certifications\\OLPMC_Turnover.jpg"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\awards_certifications\\SDCA_Best_in_OJT.jpg",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\awards_certifications\\SDCA_Best_in_OJT.jpg"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\awards_certifications\\SDCA_Certificate_of_Merit.jpg",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\awards_certifications\\SDCA_Certificate_of_Merit.jpg"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\hobbies_interest\\arts-and-crafts-content.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\hobbies_interest\\arts-and-crafts-content.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\hobbies_interest\\cooking-and-baking-content.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\hobbies_interest\\cooking-and-baking-content.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\hobbies_interest\\meditation-and-mindfulness-content.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\hobbies_interest\\meditation-and-mindfulness-content.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\hobbies_interest\\music-content.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\hobbies_interest\\music-content.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\hobbies_interest\\organizing-things-content.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\hobbies_interest\\organizing-things-content.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\hobbies_interest\\photography-content.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\hobbies_interest\\photography-content.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\hobbies_interest\\sports-and-fitness-content.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\hobbies_interest\\sports-and-fitness-content.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\about\\hobbies_interest\\traveling-content.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\about\\hobbies_interest\\traveling-content.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\contact\\facebook-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\contact\\facebook-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\contact\\github-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\contact\\github-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\contact\\jobs180-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\contact\\jobs180-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\contact\\linkedin-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\contact\\linkedin-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\contact\\telegram-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\contact\\telegram-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\contact\\viber-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\contact\\viber-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\education\\education-dlsud-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\education\\education-dlsud-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\education\\education-jgss-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\education\\education-jgss-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\education\\education-lta-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\education\\education-lta-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\home\\home-bootstrap-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\home\\home-bootstrap-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\home\\home-csharp-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\home\\home-csharp-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\home\\home-css-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\home\\home-css-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\home\\home-html-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\home\\home-html-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\home\\home-javascript-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\home\\home-javascript-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\home\\home-me-image.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\home\\home-me-image.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\home\\home-mongodb-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\home\\home-mongodb-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\home\\home-mysql-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\home\\home-mysql-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\home\\home-nodejs-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\home\\home-nodejs-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\home\\home-php-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\home\\home-php-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\home\\home-sql-icon.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\home\\home-sql-icon.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\college_projects\\Entr000-1.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\college_projects\\Entr000-1.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\college_projects\\Entr000-2.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\college_projects\\Entr000-2.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\college_projects\\Fili101-1.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\college_projects\\Fili101-1.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\college_projects\\Itcp412-1.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\college_projects\\Itcp412-1.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\college_projects\\Itwb416-1.jpeg",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\college_projects\\Itwb416-1.jpeg"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\college_projects\\Itwb416-2.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\college_projects\\Itwb416-2.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\college_projects\\Itwb416-3.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\college_projects\\Itwb416-3.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\college_projects\\Itwb416-4.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\college_projects\\Itwb416-4.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\college_projects\\Itwb416-5.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\college_projects\\Itwb416-5.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\college_projects\\Reed003-1.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\college_projects\\Reed003-1.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\college_projects\\Scts001-1.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\college_projects\\Scts001-1.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Dudz_nail_spa.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Dudz_nail_spa.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Mlln_thread_logo.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Mlln_thread_logo.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Package_five.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Package_five.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Package_one.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Package_one.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Package_three.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Package_three.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Product_description.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Product_description.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Product_sample.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Product_sample.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Shopee_link.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\freelance_projects\\Shopee_link.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\itpc_organization\\ITPC_lanyard.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\itpc_organization\\ITPC_lanyard.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\itpc_organization\\ITPC_pubmat_one.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\itpc_organization\\ITPC_pubmat_one.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\itpc_organization\\ITPC_pubmat_three.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\itpc_organization\\ITPC_pubmat_three.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\itpc_organization\\ITPC_pubmat_two.jpg",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\itpc_organization\\ITPC_pubmat_two.jpg"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\itpc_organization\\ITPC_tshirt_back.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\itpc_organization\\ITPC_tshirt_back.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\itpc_organization\\ITPC_tshirt_front.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\itpc_organization\\ITPC_tshirt_front.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\shs_projects\\Be_unique.jpg",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\shs_projects\\Be_unique.jpg"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\shs_projects\\Digital_issues.jpg",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\shs_projects\\Digital_issues.jpg"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\shs_projects\\Eyeris_flyer.jpg",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\shs_projects\\Eyeris_flyer.jpg"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\shs_projects\\Eyeris_logo.jpg",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\shs_projects\\Eyeris_logo.jpg"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\shs_projects\\My_magazine.pdf",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\shs_projects\\My_magazine.pdf"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\shs_projects\\My_magazine.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\shs_projects\\My_magazine.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\graphic_design\\shs_projects\\School_flyer.jpg",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\graphic_design\\shs_projects\\School_flyer.jpg"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\project-graphic-design.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\project-graphic-design.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\project-web-design.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\project-web-design.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\project-web-development.png",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\project-web-development.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\web_design\\Kurimi.pdf",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\web_design\\Kurimi.pdf"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\content\\project\\web_design\\The_Continental.pdf",
+      "PackagePath": "staticwebassets\\img\\public\\content\\project\\web_design\\The_Continental.pdf"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\img\\public\\logo\\logo.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\wallpaper\\about-wallpaper.png",
+      "PackagePath": "staticwebassets\\img\\public\\wallpaper\\about-wallpaper.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\wallpaper\\contact-wallpaper.png",
+      "PackagePath": "staticwebassets\\img\\public\\wallpaper\\contact-wallpaper.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\wallpaper\\home-wallpaper.png",
+      "PackagePath": "staticwebassets\\img\\public\\wallpaper\\home-wallpaper.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\wallpaper\\mainhome-wallpaper.png",
+      "PackagePath": "staticwebassets\\img\\public\\wallpaper\\mainhome-wallpaper.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\img\\public\\wallpaper\\project-wallpaper.png",
+      "PackagePath": "staticwebassets\\img\\public\\wallpaper\\project-wallpaper.png"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\js\\Default\\Default_script.js",
+      "PackagePath": "staticwebassets\\js\\Default\\Default_script.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\js\\Default\\Izi_toast_script.js",
+      "PackagePath": "staticwebassets\\js\\Default\\Izi_toast_script.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\js\\Default\\Splash_screen_script.js",
+      "PackagePath": "staticwebassets\\js\\Default\\Splash_screen_script.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\js\\Functional\\Calculator_script.js",
+      "PackagePath": "staticwebassets\\js\\Functional\\Calculator_script.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\js\\Home\\About_script.js",
+      "PackagePath": "staticwebassets\\js\\Home\\About_script.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\js\\Home\\Contact_script.js",
+      "PackagePath": "staticwebassets\\js\\Home\\Contact_script.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Visual Code\\Portfolio\\Website\\C#\\MyPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyPortfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyPortfolio.props",
+      "PackagePath": "build\\MyPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyPortfolio.props",
+      "PackagePath": "buildMultiTargeting\\MyPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyPortfolio.props",
+      "PackagePath": "buildTransitive\\MyPortfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

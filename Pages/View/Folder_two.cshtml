@@ -1,0 +1,535 @@
+@page
+@model MyPortfolio.Pages.View.Folder_two
+@{
+    ViewData["Title"] = "Folder_two";
+    ViewData["Project"] = "True";
+}
+
+<!-- ========================================= ASSETS (STYLESHEET) ======================================== -->
+
+<link rel="stylesheet" href="~/css/Project/Card_stylesheet.css" asp-append-version="true">
+
+<!-- ====================================================================================================== -->
+
+<section class="container mt-custom">
+    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-page="/View/Project" class="text-primary">Project</a></li>
+            <li class="breadcrumb-item"><a asp-page="/View/Graphic_design" class="text-primary">Graphic Design</a></li>
+            <li class="breadcrumb-item" aria-current="page"><span class="text-secondary">College Projects</span></li>
+        </ol>
+    </nav>
+</section>
+
+<section class="container mb-5">
+    <div class="d-flex justify-content-between mt-4">
+        <h1 class="fs-3">College Projects</h1>
+        <div>
+            <button class="btn btn-primary border border-1"><i class="bi bi-grid-3x3-gap"></i></button>
+            <button class="btn btn-white border border-1"><i class="bi bi-list"></i></button>
+        </div>
+    </div>
+    <hr class="mt-2 my-4" />
+
+    <div class="content-section">
+        <div class="row">
+
+            <!-- DISKURSO SA FILIPINO -->
+            <div class="col-md-3 mb-3" data-bs-toggle="modal" data-bs-target="#fili101Modal">
+                <div class="card card-custom mb-3 position-relative">
+                    <div class="card-body d-flex justify-content-between align-items-center">
+                        <img src="~/img/public/content/project/graphic_design/college_projects/Fili101-1.png" class="img-fluid img-custom rounded-top" alt="..." width="600" height="180">
+                        <div class="div-dot m-2 px-2 py-1 position-absolute top-0 end-0 bg-white rounded-circle">
+                            <i class="bi bi-three-dots-vertical"></i>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <span class="fs-custom fw-medium">Fili101-1.png</span><br/>
+                        <span class="fs-sub-custom text-secondary">PNG Image</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- REED THREE -->
+            <div class="col-md-3 mb-3" data-bs-toggle="modal" data-bs-target="#reed003Modal">
+                <div class="card card-custom mb-3 position-relative">
+                    <div class="card-body d-flex justify-content-between align-items-center">
+                        <img src="~/img/public/content/project/graphic_design/college_projects/Reed003-1.png" class="img-fluid img-custom rounded-top" alt="..." width="600" height="180">
+                        <div class="div-dot m-2 px-2 py-1 position-absolute top-0 end-0 bg-white rounded-circle">
+                            <i class="bi bi-three-dots-vertical"></i>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <span class="fs-custom fw-medium">Reed003-1.png</span><br/>
+                        <span class="fs-sub-custom text-secondary">PNG Image</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ENTREPRENEURIAL MINDSET -->
+            <div class="col-md-3 mb-3" data-bs-toggle="modal" data-bs-target="#entr000ModalA">
+                <div class="card card-custom mb-3 position-relative">
+                    <div class="card-body d-flex justify-content-between align-items-center">
+                        <img src="~/img/public/content/project/graphic_design/college_projects/Entr000-1.png" class="img-fluid img-custom rounded-top" alt="..." width="600" height="180">
+                        <div class="div-dot m-2 px-2 py-1 position-absolute top-0 end-0 bg-white rounded-circle">
+                            <i class="bi bi-three-dots-vertical"></i>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <span class="fs-custom fw-medium">Entr000-1.png</span><br/>
+                        <span class="fs-sub-custom text-secondary">PNG Image</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ENTREPRENEURIAL MINDSET -->
+            <div class="col-md-3 mb-3" data-bs-toggle="modal" data-bs-target="#entr000ModalB">
+                <div class="card card-custom mb-3 position-relative">
+                    <div class="card-body d-flex justify-content-between align-items-center">
+                        <img src="~/img/public/content/project/graphic_design/college_projects/Entr000-2.png" class="img-fluid img-custom rounded-top" alt="..." width="600" height="180">
+                        <div class="div-dot m-2 px-2 py-1 position-absolute top-0 end-0 bg-white rounded-circle">
+                            <i class="bi bi-three-dots-vertical"></i>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <span class="fs-custom fw-medium">Entr000-2.png</span><br/>
+                        <span class="fs-sub-custom text-secondary">PNG Image</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ENVIRONMENTAL SCIENCE -->
+            <div class="col-md-3 mb-3" data-bs-toggle="modal" data-bs-target="#scts001Modal">
+                <div class="card card-custom mb-3 position-relative">
+                    <div class="card-body d-flex justify-content-between align-items-center">
+                        <img src="~/img/public/content/project/graphic_design/college_projects/Scts001-1.png" class="img-fluid img-custom rounded-top" alt="..." width="600" height="180">
+                        <div class="div-dot m-2 px-2 py-1 position-absolute top-0 end-0 bg-white rounded-circle">
+                            <i class="bi bi-three-dots-vertical"></i>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <span class="fs-custom fw-medium">Scts001-1.png</span><br/>
+                        <span class="fs-sub-custom text-secondary">PNG Image</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- GRAPHICS DESIGN -->
+            <div class="col-md-3 mb-3" data-bs-toggle="modal" data-bs-target="#itwb416ModalA">
+                <div class="card card-custom mb-3 position-relative">
+                    <div class="card-body d-flex justify-content-between align-items-center">
+                        <img src="~/img/public/content/project/graphic_design/college_projects/Itwb416-1.jpeg" class="img-fluid img-custom rounded-top" alt="..." width="600" height="180">
+                        <div class="div-dot m-2 px-2 py-1 position-absolute top-0 end-0 bg-white rounded-circle">
+                            <i class="bi bi-three-dots-vertical"></i>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <span class="fs-custom fw-medium">Itwb416-1.jpeg</span><br/>
+                        <span class="fs-sub-custom text-secondary">JPEG Image</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- GRAPHICS DESIGN -->
+            <div class="col-md-3 mb-3" data-bs-toggle="modal" data-bs-target="#itwb416ModalB">
+                <div class="card card-custom mb-3 position-relative">
+                    <div class="card-body d-flex justify-content-between align-items-center">
+                        <img src="~/img/public/content/project/graphic_design/college_projects/Itwb416-2.png" class="img-fluid img-custom rounded-top" alt="..." width="600" height="180">
+                        <div class="div-dot m-2 px-2 py-1 position-absolute top-0 end-0 bg-white rounded-circle">
+                            <i class="bi bi-three-dots-vertical"></i>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <span class="fs-custom fw-medium">Itwb416-2.png</span><br/>
+                        <span class="fs-sub-custom text-secondary">PNG Image</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- GRAPHICS DESIGN -->
+            <div class="col-md-3 mb-3" data-bs-toggle="modal" data-bs-target="#itwb416ModalC">
+                <div class="card card-custom mb-3 position-relative">
+                    <div class="card-body d-flex justify-content-between align-items-center">
+                        <img src="~/img/public/content/project/graphic_design/college_projects/Itwb416-3.png" class="img-fluid img-custom rounded-top" alt="..." width="600" height="180">
+                        <div class="div-dot m-2 px-2 py-1 position-absolute top-0 end-0 bg-white rounded-circle">
+                            <i class="bi bi-three-dots-vertical"></i>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <span class="fs-custom fw-medium">Itwb416-3.png</span><br/>
+                        <span class="fs-sub-custom text-secondary">PNG Image</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- GRAPHICS DESIGN -->
+            <div class="col-md-3 mb-3" data-bs-toggle="modal" data-bs-target="#itwb416ModalD">
+                <div class="card card-custom mb-3 position-relative">
+                    <div class="card-body d-flex justify-content-between align-items-center">
+                        <img src="~/img/public/content/project/graphic_design/college_projects/Itwb416-4.png" class="img-fluid img-custom rounded-top" alt="..." width="600" height="180">
+                        <div class="div-dot m-2 px-2 py-1 position-absolute top-0 end-0 bg-white rounded-circle">
+                            <i class="bi bi-three-dots-vertical"></i>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <span class="fs-custom fw-medium">Itwb416-4.png</span><br/>
+                        <span class="fs-sub-custom text-secondary">PNG Image</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- GRAPHICS DESIGN -->
+            <div class="col-md-3 mb-3" data-bs-toggle="modal" data-bs-target="#itwb416ModalE">
+                <div class="card card-custom mb-3 position-relative">
+                    <div class="card-body d-flex justify-content-between align-items-center">
+                        <img src="~/img/public/content/project/graphic_design/college_projects/Itwb416-5.png" class="img-fluid img-custom rounded-top" alt="..." width="600" height="180">
+                        <div class="div-dot m-2 px-2 py-1 position-absolute top-0 end-0 bg-white rounded-circle">
+                            <i class="bi bi-three-dots-vertical"></i>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <span class="fs-custom fw-medium">Itwb416-5.png</span><br/>
+                        <span class="fs-sub-custom text-secondary">PNG Image</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- CAPSTONE PROJECT -->
+            <div class="col-md-3 mb-3" data-bs-toggle="modal" data-bs-target="#itcp412Modal">
+                <div class="card card-custom mb-3 position-relative">
+                    <div class="card-body d-flex justify-content-between align-items-center">
+                        <img src="~/img/public/content/project/graphic_design/college_projects/Itcp412-1.png" class="img-fluid img-custom rounded-top" alt="..." width="600" height="180">
+                        <div class="div-dot m-2 px-2 py-1 position-absolute top-0 end-0 bg-white rounded-circle">
+                            <i class="bi bi-three-dots-vertical"></i>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <span class="fs-custom fw-medium">Itcp412-1.png</span><br/>
+                        <span class="fs-sub-custom text-secondary">PNG Image</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ====================================================================================================== -->
+
+<!-- DISKURSO SA FILIPINO | MODAL -->
+<div class="modal fade" id="fili101Modal" tabindex="-1" aria-labelledby="fili101ModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header border-bottom-0 bg-secondary text-white py-2 px-3">
+                <div class="d-flex align-items-center">
+                    <i class="bi bi-image-fill small me-2"></i>
+                    <h1 class="modal-title small fw-bold mb-0" id="fili101ModalLabel">Fili101-1.png</h1>
+                </div>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-2 pb-0">
+                <img src="~/img/public/content/project/graphic_design/college_projects/Fili101-1.png" class="img-fluid rounded w-100" alt="..." width="600" height="180">
+            </div>
+            <div class="modal-footer bg-light border-0 py-2">
+                <div class="d-flex justify-content-between align-items-center w-100">
+                    <small class="text-muted">
+                        <i class="bi bi-info-circle me-1"></i>
+                        PNG Image
+                    </small>
+                    <button type="button" class="btn btn-outline-secondary btn-sm px-4" data-bs-dismiss="modal">
+                        <i class="bi bi-x-lg me-1"></i>Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- REED THREE | MODAL -->
+<div class="modal fade" id="reed003Modal" tabindex="-1" aria-labelledby="reed003ModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header border-bottom-0 bg-secondary text-white py-2 px-3">
+                <div class="d-flex align-items-center">
+                    <i class="bi bi-image-fill small me-2"></i>
+                    <h1 class="modal-title small fw-bold mb-0" id="reed003ModalLabel">Reed003-1.png</h1>
+                </div>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-2 pb-0">
+                <img src="~/img/public/content/project/graphic_design/college_projects/Reed003-1.png" class="img-fluid rounded w-100" alt="..." width="600" height="180">
+            </div>
+            <div class="modal-footer bg-light border-0 py-2">
+                <div class="d-flex justify-content-between align-items-center w-100">
+                    <small class="text-muted">
+                        <i class="bi bi-info-circle me-1"></i>
+                        PNG Image
+                    </small>
+                    <button type="button" class="btn btn-outline-secondary btn-sm px-4" data-bs-dismiss="modal">
+                        <i class="bi bi-x-lg me-1"></i>Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ENTREPRENEURIAL MINDSET | MODAL -->
+<div class="modal fade" id="entr000ModalA" tabindex="-1" aria-labelledby="entr000ModalALabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header border-bottom-0 bg-secondary text-white py-2 px-3">
+                <div class="d-flex align-items-center">
+                    <i class="bi bi-image-fill small me-2"></i>
+                    <h1 class="modal-title small fw-bold mb-0" id="entr000ModalALabel">Entr000-1.png</h1>
+                </div>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-2 pb-0">
+                <img src="~/img/public/content/project/graphic_design/college_projects/Entr000-1.png" class="img-fluid rounded w-100" alt="..." width="600" height="180">
+            </div>
+            <div class="modal-footer bg-light border-0 py-2">
+                <div class="d-flex justify-content-between align-items-center w-100">
+                    <small class="text-muted">
+                        <i class="bi bi-info-circle me-1"></i>
+                        PNG Image
+                    </small>
+                    <button type="button" class="btn btn-outline-secondary btn-sm px-4" data-bs-dismiss="modal">
+                        <i class="bi bi-x-lg me-1"></i>Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ENTREPRENEURIAL MINDSET | MODAL -->
+<div class="modal fade" id="entr000ModalB" tabindex="-1" aria-labelledby="entr000ModalBLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header border-bottom-0 bg-secondary text-white py-2 px-3">
+                <div class="d-flex align-items-center">
+                    <i class="bi bi-image-fill small me-2"></i>
+                    <h1 class="modal-title small fw-bold mb-0" id="entr000ModalBLabel">Entr000-2.png</h1>
+                </div>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-2 pb-0">
+                <img src="~/img/public/content/project/graphic_design/college_projects/Entr000-2.png" class="img-fluid rounded w-100" alt="..." width="600" height="180">
+            </div>
+            <div class="modal-footer bg-light border-0 py-2">
+                <div class="d-flex justify-content-between align-items-center w-100">
+                    <small class="text-muted">
+                        <i class="bi bi-info-circle me-1"></i>
+                        PNG Image
+                    </small>
+                    <button type="button" class="btn btn-outline-secondary btn-sm px-4" data-bs-dismiss="modal">
+                        <i class="bi bi-x-lg me-1"></i>Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ENVIRONMENTAL SCIENCE | MODAL -->
+<div class="modal fade" id="scts001Modal" tabindex="-1" aria-labelledby="scts001ModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header border-bottom-0 bg-secondary text-white py-2 px-3">
+                <div class="d-flex align-items-center">
+                    <i class="bi bi-image-fill small me-2"></i>
+                    <h1 class="modal-title small fw-bold mb-0" id="scts001ModalLabel">Scts001-1.png</h1>
+                </div>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-2 pb-0">
+                <img src="~/img/public/content/project/graphic_design/college_projects/Scts001-1.png" class="img-fluid rounded w-100" alt="..." width="600" height="180">
+            </div>
+            <div class="modal-footer bg-light border-0 py-2">
+                <div class="d-flex justify-content-between align-items-center w-100">
+                    <small class="text-muted">
+                        <i class="bi bi-info-circle me-1"></i>
+                        PNG Image
+                    </small>
+                    <button type="button" class="btn btn-outline-secondary btn-sm px-4" data-bs-dismiss="modal">
+                        <i class="bi bi-x-lg me-1"></i>Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- GRAPHICS DESIGN | MODAL -->
+<div class="modal fade" id="itwb416ModalA" tabindex="-1" aria-labelledby="itwb416ModalALabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header border-bottom-0 bg-secondary text-white py-2 px-3">
+                <div class="d-flex align-items-center">
+                    <i class="bi bi-image-fill small me-2"></i>
+                    <h1 class="modal-title small fw-bold mb-0" id="itwb416ModalALabel">Itwb416-1.jpeg</h1>
+                </div>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-2 pb-0">
+                <img src="~/img/public/content/project/graphic_design/college_projects/Itwb416-1.jpeg" class="img-fluid rounded w-100" alt="..." width="600" height="180">
+            </div>
+            <div class="modal-footer bg-light border-0 py-2">
+                <div class="d-flex justify-content-between align-items-center w-100">
+                    <small class="text-muted">
+                        <i class="bi bi-info-circle me-1"></i>
+                        JPEG Image
+                    </small>
+                    <button type="button" class="btn btn-outline-secondary btn-sm px-4" data-bs-dismiss="modal">
+                        <i class="bi bi-x-lg me-1"></i>Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- GRAPHICS DESIGN | MODAL -->
+<div class="modal fade" id="itwb416ModalB" tabindex="-1" aria-labelledby="itwb416ModalBLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header border-bottom-0 bg-secondary text-white py-2 px-3">
+                <div class="d-flex align-items-center">
+                    <i class="bi bi-image-fill small me-2"></i>
+                    <h1 class="modal-title small fw-bold mb-0" id="itwb416ModalBLabel">Itwb416-2.png</h1>
+                </div>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-2 pb-0">
+                <img src="~/img/public/content/project/graphic_design/college_projects/Itwb416-2.png" class="img-fluid rounded w-100" alt="..." width="600" height="180">
+            </div>
+            <div class="modal-footer bg-light border-0 py-2">
+                <div class="d-flex justify-content-between align-items-center w-100">
+                    <small class="text-muted">
+                        <i class="bi bi-info-circle me-1"></i>
+                        PNG Image
+                    </small>
+                    <button type="button" class="btn btn-outline-secondary btn-sm px-4" data-bs-dismiss="modal">
+                        <i class="bi bi-x-lg me-1"></i>Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- GRAPHICS DESIGN | MODAL -->
+<div class="modal fade" id="itwb416ModalC" tabindex="-1" aria-labelledby="itwb416ModalCLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header border-bottom-0 bg-secondary text-white py-2 px-3">
+                <div class="d-flex align-items-center">
+                    <i class="bi bi-image-fill small me-2"></i>
+                    <h1 class="modal-title small fw-bold mb-0" id="itwb416ModalCLabel">Itwb416-3.png</h1>
+                </div>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-2 pb-0">
+                <img src="~/img/public/content/project/graphic_design/college_projects/Itwb416-3.png" class="img-fluid rounded w-100" alt="..." width="600" height="180">
+            </div>
+            <div class="modal-footer bg-light border-0 py-2">
+                <div class="d-flex justify-content-between align-items-center w-100">
+                    <small class="text-muted">
+                        <i class="bi bi-info-circle me-1"></i>
+                        PNG Image
+                    </small>
+                    <button type="button" class="btn btn-outline-secondary btn-sm px-4" data-bs-dismiss="modal">
+                        <i class="bi bi-x-lg me-1"></i>Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- GRAPHICS DESIGN | MODAL -->
+<div class="modal fade" id="itwb416ModalD" tabindex="-1" aria-labelledby="itwb416ModalDLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header border-bottom-0 bg-secondary text-white py-2 px-3">
+                <div class="d-flex align-items-center">
+                    <i class="bi bi-image-fill small me-2"></i>
+                    <h1 class="modal-title small fw-bold mb-0" id="itwb416ModalDLabel">Itwb416-4.png</h1>
+                </div>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-2 pb-0">
+                <img src="~/img/public/content/project/graphic_design/college_projects/Itwb416-4.png" class="img-fluid rounded w-100" alt="..." width="600" height="180">
+            </div>
+            <div class="modal-footer bg-light border-0 py-2">
+                <div class="d-flex justify-content-between align-items-center w-100">
+                    <small class="text-muted">
+                        <i class="bi bi-info-circle me-1"></i>
+                        PNG Image
+                    </small>
+                    <button type="button" class="btn btn-outline-secondary btn-sm px-4" data-bs-dismiss="modal">
+                        <i class="bi bi-x-lg me-1"></i>Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- GRAPHICS DESIGN | MODAL -->
+<div class="modal fade" id="itwb416ModalE" tabindex="-1" aria-labelledby="itwb416ModalELabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header border-bottom-0 bg-secondary text-white py-2 px-3">
+                <div class="d-flex align-items-center">
+                    <i class="bi bi-image-fill small me-2"></i>
+                    <h1 class="modal-title small fw-bold mb-0" id="itwb416ModalELabel">Itwb416-5.png</h1>
+                </div>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-2 pb-0">
+                <img src="~/img/public/content/project/graphic_design/college_projects/Itwb416-5.png" class="img-fluid rounded w-100" alt="..." width="600" height="180">
+            </div>
+            <div class="modal-footer bg-light border-0 py-2">
+                <div class="d-flex justify-content-between align-items-center w-100">
+                    <small class="text-muted">
+                        <i class="bi bi-info-circle me-1"></i>
+                        PNG Image
+                    </small>
+                    <button type="button" class="btn btn-outline-secondary btn-sm px-4" data-bs-dismiss="modal">
+                        <i class="bi bi-x-lg me-1"></i>Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- CAPSTONE PROJECT | MODAL -->
+<div class="modal fade" id="itcp412Modal" tabindex="-1" aria-labelledby="itcp412ModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header border-bottom-0 bg-secondary text-white py-2 px-3">
+                <div class="d-flex align-items-center">
+                    <i class="bi bi-image-fill small me-2"></i>
+                    <h1 class="modal-title small fw-bold mb-0" id="itcp412ModalLabel">Itcp412-1.png</h1>
+                </div>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-2 pb-0">
+                <img src="~/img/public/content/project/graphic_design/college_projects/Itcp412-1.png" class="img-fluid rounded w-100" alt="..." width="600" height="180">
+            </div>
+            <div class="modal-footer bg-light border-0 py-2">
+                <div class="d-flex justify-content-between align-items-center w-100">
+                    <small class="text-muted">
+                        <i class="bi bi-info-circle me-1"></i>
+                        PNG Image
+                    </small>
+                    <button type="button" class="btn btn-outline-secondary btn-sm px-4" data-bs-dismiss="modal">
+                        <i class="bi bi-x-lg me-1"></i>Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

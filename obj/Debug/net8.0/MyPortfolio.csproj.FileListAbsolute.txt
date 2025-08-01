@@ -1,0 +1,69 @@
+C:\Users\Acer\MyPortfolio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Acer\MyPortfolio\bin\Debug\net8.0\appsettings.json
+C:\Users\Acer\MyPortfolio\bin\Debug\net8.0\MyPortfolio.staticwebassets.runtime.json
+C:\Users\Acer\MyPortfolio\bin\Debug\net8.0\MyPortfolio.exe
+C:\Users\Acer\MyPortfolio\bin\Debug\net8.0\MyPortfolio.deps.json
+C:\Users\Acer\MyPortfolio\bin\Debug\net8.0\MyPortfolio.runtimeconfig.json
+C:\Users\Acer\MyPortfolio\bin\Debug\net8.0\MyPortfolio.dll
+C:\Users\Acer\MyPortfolio\bin\Debug\net8.0\MyPortfolio.pdb
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\MyPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\MyPortfolio.AssemblyInfoInputs.cache
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\MyPortfolio.AssemblyInfo.cs
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\MyPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\MyPortfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\MyPortfolio.RazorAssemblyInfo.cache
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\MyPortfolio.RazorAssemblyInfo.cs
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\staticwebassets\msbuild.MyPortfolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\staticwebassets\msbuild.build.MyPortfolio.props
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyPortfolio.props
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyPortfolio.props
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\scopedcss\bundle\MyPortfolio.styles.css
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\scopedcss\projectbundle\MyPortfolio.bundle.scp.css
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\MyPortfolio.dll
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\refint\MyPortfolio.dll
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\MyPortfolio.pdb
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\MyPortfolio.genruntimeconfig.cache
+C:\Users\Acer\MyPortfolio\obj\Debug\net8.0\ref\MyPortfolio.dll
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\bin\Debug\net8.0\appsettings.Development.json
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\bin\Debug\net8.0\appsettings.json
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\bin\Debug\net8.0\MyPortfolio.staticwebassets.runtime.json
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\bin\Debug\net8.0\MyPortfolio.exe
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\bin\Debug\net8.0\MyPortfolio.deps.json
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\bin\Debug\net8.0\MyPortfolio.runtimeconfig.json
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\bin\Debug\net8.0\MyPortfolio.dll
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\bin\Debug\net8.0\MyPortfolio.pdb
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\MyPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\MyPortfolio.AssemblyInfoInputs.cache
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\MyPortfolio.AssemblyInfo.cs
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\MyPortfolio.csproj.CoreCompileInputs.cache
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\MyPortfolio.MvcApplicationPartsAssemblyInfo.cache
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\MyPortfolio.RazorAssemblyInfo.cache
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\MyPortfolio.RazorAssemblyInfo.cs
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\staticwebassets.build.json
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\staticwebassets.development.json
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\staticwebassets\msbuild.MyPortfolio.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\staticwebassets\msbuild.build.MyPortfolio.props
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyPortfolio.props
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyPortfolio.props
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\scopedcss\bundle\MyPortfolio.styles.css
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\scopedcss\projectbundle\MyPortfolio.bundle.scp.css
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\MyPortfolio.dll
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\refint\MyPortfolio.dll
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\MyPortfolio.pdb
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\MyPortfolio.genruntimeconfig.cache
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\ref\MyPortfolio.dll
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\bin\Debug\net8.0\DnsClient.dll
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\bin\Debug\net8.0\SharpCompress.dll
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\bin\Debug\net8.0\Snappier.dll
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\bin\Debug\net8.0\ZstdSharp.dll
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\MyPortfolio.csproj.AssemblyReference.cache
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\obj\Debug\net8.0\MyPortfo.01A62FBD.Up2Date
+E:\Visual Code\Portfolio\Website\C#\MyPortfolio\bin\Debug\net8.0\BCrypt.Net-Next.dll
