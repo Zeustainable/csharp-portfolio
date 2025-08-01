@@ -1,6 +1,10 @@
-# Use .NET 8 SDK to build the project
+# Use .NET 8 SDK to build
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
+
+# Install git (required by some build steps like pulling dependencies)
+RUN apt-get update && apt-get install -y git
+
 COPY . ./
 RUN dotnet publish -c Release -o /app/out
 
