@@ -11,3 +11,5 @@ COPY --from=build /app/out .
 
 EXPOSE 80
 ENTRYPOINT ["dotnet", "MyPortfolio.dll"]
+# Dockerfile for MyPortfolio application
+# This Dockerfile builds the .NET application and prepares it for deployment
